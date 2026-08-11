@@ -1,2 +1,3 @@
-# discord-username-generator
-(REAL) 1-5L username generator (so you don't get ratted finding one)
+place all these scripts inside a folder, then edit start.bat to be the location
+then create a folder called tor, download tor expert bundle (that has the tor.exe thing) place it all in that tor folder
+then open start.bat
