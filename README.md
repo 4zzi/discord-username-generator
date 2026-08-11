@@ -6,4 +6,4 @@ use some sort of extension to get your discord token, then create a token.txt fi
 
 then open start.bat
 
-!(image)[https://github.com/4zzi/discord-username-generator/blob/main/WindowsTerminal_Vya0kvHr42.png]
+![image](https://github.com/4zzi/discord-username-generator/blob/main/WindowsTerminal_Vya0kvHr42.png)
