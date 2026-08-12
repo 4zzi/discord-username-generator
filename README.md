@@ -12,9 +12,7 @@ if you pick to save more then 1 username, it gets saved to a file
 
 # How to use
 
-place all these scripts inside a folder, then edit start.bat to be the location
-
-then create a folder called tor, download tor expert bundle (that has the tor.exe thing) place it all in that tor folder
+place all these scripts inside a folder
 
 use a discord extension that gets your discord token, open start.bat and paste your token
 
