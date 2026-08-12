@@ -16,4 +16,4 @@ place all these scripts inside a folder
 
 use a discord extension that gets your discord token, open start.bat and paste your token
 
-![image](https://github.com/4zzi/discord-username-generator/blob/main/WindowsTerminal_Vya0kvHr42.png)
+![image](https://github.com/4zzi/discord-username-generator/blob/main/WindowsTerminal_0tBKRjStIO.png)
